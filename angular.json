@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "genXFrontEnd"
+    }
+  },
+  "defaultProject": "genXFrontEnd",
+  "cli": {
+    "analytics": "98c912ec-6b3f-4a0a-82e3-ecd1a96da5e4"
+  }
 }
